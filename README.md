@@ -9,7 +9,6 @@
 - [User Journey](#user-journey)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Questions](#questions)
 
 <br>
